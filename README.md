@@ -22,4 +22,4 @@ https://www.kaggle.com/datasets/sahilnbajaj/marketing-campaigns-data-set
 - Purchase Trends by Customer Join Date
 ## Dashboard Interaction
 https://github.com/jeevithasnpsu-del/FUTURE_TrackCode_02/blob/2b09d86089b099133f8cb637ee66f5efb85eef2c/Marketdata-1.jpeg
-
+https://github.com/jeevithasnpsu-del/FUTURE_TrackCode_02/blob/fad4eeeb8cb16e06880f3357dd8c054561763271/Marketing%20data-2.jpeg
